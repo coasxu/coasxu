@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=coasxu&color=blueviolet)
+
 - 🔭 I’m currently working on deep learning.
 - 🌱 I’m currently learning on React.
 
